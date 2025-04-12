@@ -8,6 +8,6 @@
   <samp>
     <a href="https://github.com/tholinka/home-ops">Homelab</a> .
     <a href="https://www.linkedin.com/in/tyler-holinka/">LinkedIn</a> .
-    <a href="https://tylerholinka.com/resume.html">Résumé</a>
+    <a href="https://tylerholinka.com/cv.pdf">Résumé</a>
   </samp>
 </p>
