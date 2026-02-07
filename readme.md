@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=tholinka&show_icons=true&hide_title=true&theme=monokai&count_private=true&hide=stars&hide_rank=true">
+  <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=tholinka&show_icons=true&hide_title=true&theme=monokai&count_private=true&hide=stars&hide_rank=true">
 
 </p>
 <p align="center">
