@@ -1,13 +1,13 @@
 <p align="center">
-
-  <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=tholinka&show_icons=true&hide_title=true&theme=monokai&count_private=true&hide=stars&hide_rank=true">
-
-</p>
-<p align="center">
   <!-- Monospace Font -->
   <samp>
-    <a href="https://github.com/tholinka/home-ops">Homelab</a> .
-    <a href="https://www.linkedin.com/in/tyler-holinka/">LinkedIn</a> .
-    <a href="https://tylerholinka.com/cv.pdf">Résumé</a>
+    <a href="https://www.linkedin.com/in/tyler-holinka/">linkedin</a> .
+    <a href="https://tylerholinka.com/cv.pdf">résumé</a> .
+    <a href="./metrics.md">metrics</a> .
+    <a href="https://github.com/tholinka/home-ops">homelab</a>
   </samp>
+</p>
+
+<p align="center">
+  <img src="./stats/stats.svg" />
 </p>
