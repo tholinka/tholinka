@@ -51,12 +51,12 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_animations: yes
 
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          # plugin_activity: yes
+          # plugin_activity_days: 14
+          # plugin_activity_filter: all
+          # plugin_activity_limit: 5
+          # plugin_activity_load: 300
+          # plugin_activity_visibility: all
 
           plugin_calendar: yes
           plugin_calendar_limit: 1
@@ -65,13 +65,13 @@ jobs:
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
 
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+          # plugin_habits: yes
+          # plugin_habits_charts_type: classic
+          # plugin_habits_days: 14
+          # plugin_habits_facts: yes
+          # plugin_habits_from: 200
+          # plugin_habits_languages_limit: 8
+          # plugin_habits_languages_threshold: 0%
 
           plugin_introduction: yes
           plugin_introduction_title: yes
@@ -116,13 +116,13 @@ jobs:
           plugin_repositories_featured: buroa/k8s-gitops
           plugin_repositories_order: featured, pinned, starred, random
 
-          plugin_sponsors: yes
-          plugin_sponsors_sections: goal, list
-          plugin_sponsors_past: yes
+          #   plugin_sponsors: yes
+          #   plugin_sponsors_sections: goal, list
+          #   plugin_sponsors_past: yes
 
-          plugin_sponsorships: yes
-          plugin_sponsorships_sections: amount, sponsorships
-          plugin_sponsorships_size: 24
+          #   plugin_sponsorships: yes
+          #   plugin_sponsorships_sections: amount, sponsorships
+          #   plugin_sponsorships_size: 24
 
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
