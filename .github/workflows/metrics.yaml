@@ -14,7 +14,7 @@ jobs:
   github-metrics-light:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -37,7 +37,7 @@ jobs:
   github-metrics-heavy:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
